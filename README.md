@@ -18,7 +18,7 @@ No transactions are signed or broadcast.
 
 ## Repository layout
 
-- app.ember-tideledger.ts  
+- app/ember-tideledger.ts  
   Browser entry script handling wallet connection, chain validation, and RPC reads.
 
 - config/networks.json  
